@@ -1,0 +1,7 @@
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\bin\Debug\ConsoleSORTEDLIST.exe.config
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\bin\Debug\ConsoleSORTEDLIST.exe
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\bin\Debug\ConsoleSORTEDLIST.pdb
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\obj\Debug\ConsoleSORTEDLIST.csprojAssemblyReference.cache
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\obj\Debug\ConsoleSORTEDLIST.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\obj\Debug\ConsoleSORTEDLIST.exe
+D:\01072019_ConsoleApp\ConsoleSORTEDLIST\obj\Debug\ConsoleSORTEDLIST.pdb

@@ -1,0 +1,2 @@
+D:\01072019_ConsoleApp\ConsoleProject39\obj\Debug\ConsoleProject39.csprojAssemblyReference.cache
+D:\01072019_ConsoleApp\ConsoleProject39\obj\Debug\ConsoleProject39.csproj.CoreCompileInputs.cache

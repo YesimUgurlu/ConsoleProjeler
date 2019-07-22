@@ -1,0 +1,9 @@
+D:\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.exe.config
+D:\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.exe
+D:\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.pdb
+D:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.exe
+D:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.pdb
+D:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.csprojAssemblyReference.cache
+G:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.exe
+G:\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.pdb

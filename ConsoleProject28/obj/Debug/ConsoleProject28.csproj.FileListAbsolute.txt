@@ -1,0 +1,7 @@
+D:\01072019_ConsoleApp\ConsoleProject28\bin\Debug\ConsoleProject28.exe.config
+D:\01072019_ConsoleApp\ConsoleProject28\bin\Debug\ConsoleProject28.exe
+D:\01072019_ConsoleApp\ConsoleProject28\bin\Debug\ConsoleProject28.pdb
+D:\01072019_ConsoleApp\ConsoleProject28\obj\Debug\ConsoleProject28.csprojAssemblyReference.cache
+D:\01072019_ConsoleApp\ConsoleProject28\obj\Debug\ConsoleProject28.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleProject28\obj\Debug\ConsoleProject28.exe
+D:\01072019_ConsoleApp\ConsoleProject28\obj\Debug\ConsoleProject28.pdb

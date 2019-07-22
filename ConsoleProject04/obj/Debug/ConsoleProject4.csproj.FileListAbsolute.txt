@@ -1,0 +1,6 @@
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\bin\Debug\ConsoleProject4.exe.config
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\bin\Debug\ConsoleProject4.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\bin\Debug\ConsoleProject4.pdb
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\obj\Debug\ConsoleProject4.csproj.CoreCompileInputs.cache
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\obj\Debug\ConsoleProject4.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject4\obj\Debug\ConsoleProject4.pdb

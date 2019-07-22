@@ -1,0 +1,6 @@
+D:\01072019_ConsoleApp\ConsoleProject36\bin\Debug\ConsoleProject36.exe.config
+D:\01072019_ConsoleApp\ConsoleProject36\bin\Debug\ConsoleProject36.exe
+D:\01072019_ConsoleApp\ConsoleProject36\bin\Debug\ConsoleProject36.pdb
+D:\01072019_ConsoleApp\ConsoleProject36\obj\Debug\ConsoleProject36.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleProject36\obj\Debug\ConsoleProject36.exe
+D:\01072019_ConsoleApp\ConsoleProject36\obj\Debug\ConsoleProject36.pdb

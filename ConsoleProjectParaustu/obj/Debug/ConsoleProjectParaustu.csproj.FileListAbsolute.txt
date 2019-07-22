@@ -1,0 +1,7 @@
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\bin\Debug\ConsoleProjectParaustu.exe.config
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\bin\Debug\ConsoleProjectParaustu.exe
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\bin\Debug\ConsoleProjectParaustu.pdb
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\obj\Debug\ConsoleProjectParaustu.csprojAssemblyReference.cache
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\obj\Debug\ConsoleProjectParaustu.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\obj\Debug\ConsoleProjectParaustu.exe
+D:\01072019_ConsoleApp\ConsoleProjectParaustu\obj\Debug\ConsoleProjectParaustu.pdb

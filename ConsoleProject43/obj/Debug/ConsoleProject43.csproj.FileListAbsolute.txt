@@ -1,0 +1,7 @@
+D:\01072019_ConsoleApp\ConsoleProject43\bin\Debug\ConsoleProject43.exe.config
+D:\01072019_ConsoleApp\ConsoleProject43\bin\Debug\ConsoleProject43.exe
+D:\01072019_ConsoleApp\ConsoleProject43\bin\Debug\ConsoleProject43.pdb
+D:\01072019_ConsoleApp\ConsoleProject43\obj\Debug\ConsoleProject43.csprojAssemblyReference.cache
+D:\01072019_ConsoleApp\ConsoleProject43\obj\Debug\ConsoleProject43.csproj.CoreCompileInputs.cache
+D:\01072019_ConsoleApp\ConsoleProject43\obj\Debug\ConsoleProject43.exe
+D:\01072019_ConsoleApp\ConsoleProject43\obj\Debug\ConsoleProject43.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\bin\Debug\ConsoleProject21.exe.config
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\bin\Debug\ConsoleProject21.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\bin\Debug\ConsoleProject21.pdb
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\obj\Debug\ConsoleProject21.csprojAssemblyReference.cache
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\obj\Debug\ConsoleProject21.csproj.CoreCompileInputs.cache
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\obj\Debug\ConsoleProject21.exe
+C:\Users\Bireysel\Desktop\01072019_ConsoleApp\ConsoleProject21\obj\Debug\ConsoleProject21.pdb
